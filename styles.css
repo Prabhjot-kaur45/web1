@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
+
+h1 {
+    color: brown;
+    font-family: Impact, sans-serif;
+    font-size: 250%;
+}
+
+h2 {
+    color: brown;
+    font-family: Impact, sans-serif;
+}
